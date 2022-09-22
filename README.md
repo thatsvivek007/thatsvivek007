@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**thatsvivek007/thatsvivek007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I am Vivek 👋
+```
+const vivek = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            PHP: ["Laravel", "codeIgniter"]
+        },
+        frontEnd: {
+            js: ["Angular", "ReactJS"]
+        },
+        databases: ["mongo", "mysql", "redis"],
+        misc: ["firebase", "socket.io"]
+    },
+    architecture: ["Serverless Architecture", "Micro-services" "Progressive web applications", "Single page applications"],
+    currentFocus: "Web Development",
+    funFact: "Don't be proud until you deployed an application in production;"
+};
